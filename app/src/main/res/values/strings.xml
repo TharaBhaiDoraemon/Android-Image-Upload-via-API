@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CamTest7</string>
+    <string name="captured_photo_description">Captured photo preview</string>
+    <string name="flash_control">Flash control</string>
+    <string name="switch_camera">Switch camera</string>
+    <string name="settings">Settings</string>
+</resources>
